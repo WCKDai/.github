@@ -22,14 +22,14 @@ use it the same way:
 | Trigon | `TRG` | WCKDai/trigon |
 | Galahad | `GAL` | wckdboy/galahadbot |
 | PERCIVAL | `PCV` | wckdboy/percival |
-| Invincible | `INV` | wckdboy/invincible |
-| Autobot | `AUTO` | wckdboy/autobot |
+| Invincible | `INV` | WCKDai/invincible |
+| Autobot | `AUTO` | WCKDai/autobot |
 | Niobium v2 | `NIO` | wckdboy/niobium, wckdboy/niobium-companion |
-| Sovware | `SOV` | wckdboy/sovware |
-| Omnie | `OMNIE` | wckdboy/omnie-dev, wckdboy/omnie-dev-editor-engine, wckdboy/omnie-ios, wckdboy/omnie-edit, wckdboy/omnie-edu |
-| Axit | `AXIT` | wckdboy/axit |
-| Public Sites | `WWW` | wckdboy/autobot-www |
-| WCKD World | `WLD` | (served from wckdboy/autobot-www) |
+| Sovware | `SOV` | WCKDai/sovware |
+| Omnie | `OMNIE` | WCKDai/omnie-dev, WCKDai/omnie-dev-editor-engine, WCKDai/omnie-ios, WCKDai/omnie-edit, WCKDai/omnie-edu |
+| Axit | `AXIT` | WCKDai/axit |
+| Public Sites | `WWW` | WCKDai/autobot-www |
+| WCKD World | `WLD` | (served from WCKDai/autobot-www) |
 | Lab | `LAB` | modules: Eidolon, Enjin, Mosaic, OpenEndo (openendo, openendo-www, openendo-engine), Quantimation, wckd-gpu, Walkietalkie, OPENARCH, Afterimage, Sealed, Search tools (fsearch, drivesearch), ADAMANT eng kit (agent-engineering) |
 
 This repository is public, so private repositories are not listed here: each one is named in its
