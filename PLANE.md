@@ -19,6 +19,7 @@ use it the same way:
 | Polykrom | `PK` | WCKDai/polykrom, wckdboy/solidcraft (upstream fork) |
 | PolyCore | `PC` | WCKDai/polycore, wckdboy/nightfall-freecad (archived reference) |
 | TinyRex | `TREX` | WCKDai/tinyrex |
+| Trigon | `TRG` | WCKDai/trigon |
 | Galahad | `GAL` | wckdboy/galahadbot |
 | PERCIVAL | `PCV` | wckdboy/percival |
 | Invincible | `INV` | wckdboy/invincible |
